@@ -1,0 +1,2 @@
+SECRET_KEY=b"N<N'=RVXe?]tiq6tIg@m,@nP~hmBu@"
+TEMPLATE_AUTO_RELOAD=True

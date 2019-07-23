@@ -1,3 +1,4 @@
+    
 import csv
 
 fMedias = open('data/medias.txt', 'w')
